@@ -1,5 +1,5 @@
 # 10822750-final-year-project
-2024/02/07;
+2024/02/07
 - Started Coding on Git
 - Prepared the base of the project by importing the initial library and added the dataset
 - Checked the dataset and got a breakdown of it and the shape of it
