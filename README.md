@@ -18,4 +18,7 @@
 - Evaluating the performance of different Machine Learning Models (Logistic Regression, SVM, Decision Tree Classifier, Random Forest Classifier, Gradient Boosting Classifier)
 - Dividing the dataset into Test and Train sets
 - Applying K-fold Cross Validation
+- Started Hyperparameter tuning
+- Logistic Regression, SVM and Random Forest models were selected as they had the highest accuracy out of all the 5 tested models
+- ISSUE : Problem with selecting the range of the parameter for each of the model. Tried code gives an error and takes time.
      
