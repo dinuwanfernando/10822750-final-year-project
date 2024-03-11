@@ -21,4 +21,7 @@
 - Started Hyperparameter tuning
 - Logistic Regression, SVM and Random Forest models were selected as they had the highest accuracy out of all the 5 tested models
 - ISSUE : Problem with selecting the range of the parameter for each of the model. Tried code gives an error and takes time.
+
+2024/03/11
+- ISSUE : Tried a new approach for the hyperparameter testing but failed
      
