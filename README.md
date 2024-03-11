@@ -24,4 +24,5 @@
 
 2024/03/11
 - ISSUE : Tried a new approach for the hyperparameter testing but failed
+- Sticking with Randomized Search
      
