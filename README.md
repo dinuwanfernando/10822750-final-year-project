@@ -15,7 +15,7 @@
 - Seperated features and target varialbles. Features as X and target variables as y
 
 2024/03/10
-- Evaluating the performance of different Machine Learning Models (Logistic Regression, SVM, Decision Tree Classifier, Random Forest Classifier, Gradient Boosting Classifier)
+- Evaluating the performance of different Machine Learning Models (Logistic Regression, SVC, Decision Tree Classifier, Random Forest Classifier, Gradient Boosting Classifier)
 - Dividing the dataset into Test and Train sets
 - Applying K-fold Cross Validation
 - Started Hyperparameter tuning
