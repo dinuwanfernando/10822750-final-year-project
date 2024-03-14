@@ -25,4 +25,9 @@
 2024/03/11
 - ISSUE : Tried a new approach for the hyperparameter testing but failed
 - Sticking with Randomized Search
-     
+
+2024/03/14
+- ISSUE with choosing the suitable parameter for hyperparameter was solved
+- Performed Randomized search for logistic regression, svc and random forest. And Random Forest is choses as it gives of the best acuracy of 80.66%
+
+- INTERIM REPORT -
