@@ -31,3 +31,4 @@
 - Performed Randomized search for logistic regression, svc and random forest. And Random Forest is choses as it gives of the best acuracy of 80.66%
 
 - INTERIM REPORT -
+- 
