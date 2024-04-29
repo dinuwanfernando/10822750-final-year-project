@@ -31,4 +31,13 @@
 - Performed Randomized search for logistic regression, svc and random forest. And Random Forest is choses as it gives of the best acuracy of 80.66%
 
 - INTERIM REPORT -
-- 
+
+2024/04/24
+- Encountered with a serious issue where the designed model heavily relied on the "Credit History" column  when predicting the output.
+- Also the used dataset and the predicted values were the opposite due to a fault in feature scaling and when dividing the features and targets.
+
+2024/04/26
+- Figured out a solution and started to reconfigure the model
+
+2024/04/29
+- Started to code and edit the existing model
