@@ -37,10 +37,14 @@
 - Also the used dataset and the predicted values were the opposite due to a fault in feature scaling and when dividing the features and targets.
 
 2024/04/26
-- Figured out a solution and started to reconfigure the model
+- Figured out a solution and started to reconfigure the model.
 
 2024/04/29
-- Started to code and edit the existing model
+- Started to code and edit the existing model.
+- This is a new approach and I coded until mapping of values of each columns.
 
 2024/04/30
 - Yesterday started to code again in the existing model but to show my work and all the commits clearly, I created a new file today naming it as "loan_prediction_version2" and keeping the previous model as it is. So that I would be able to show how much I have done before I achieve the current model.
+- Copied the code that was done yesterday to the new file and started working from there.
+- Created new columns to the newly mapped values rather than replacing them in the same column like in the previous model.
+- Tomorrow, I will be splittig the data and then running the model using XGBoost. I have tested many algorithms in my previous version but not XGBoost. So I will give it a shot and analyze whether to use XGBoost or shift to another algorith. And then soon I can code the final part and move quikly to creating the GUI. 
