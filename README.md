@@ -41,3 +41,6 @@
 
 2024/04/29
 - Started to code and edit the existing model
+
+2024/04/30
+- Yesterday started to code again in the existing model but to show my work and all the commits clearly, I created a new file today naming it as "loan_prediction_version2" and keeping the previous model as it is. So that I would be able to show how much I have done before I achieve the current model.
