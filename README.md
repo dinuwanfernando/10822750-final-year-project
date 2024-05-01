@@ -47,4 +47,9 @@
 - Yesterday started to code again in the existing model but to show my work and all the commits clearly, I created a new file today naming it as "loan_prediction_version2" and keeping the previous model as it is. So that I would be able to show how much I have done before I achieve the current model.
 - Copied the code that was done yesterday to the new file and started working from there.
 - Created new columns to the newly mapped values rather than replacing them in the same column like in the previous model.
-- Tomorrow, I will be splittig the data and then running the model using XGBoost. I have tested many algorithms in my previous version but not XGBoost. So I will give it a shot and analyze whether to use XGBoost or shift to another algorith. And then soon I can code the final part and move quikly to creating the GUI. 
+
+2024/05/01
+- Did the splittig of the data and then ran the model using XGBoost. I have tested many algorithms in my previous version but not XGBoost. So I will gave it a shot and analyzed whether to use XGBoost or shift to another algorith.
+- Conducting setting the targets and features clearly.
+- Then placed parameters accordingly.
+- Then did the train, and got the prediction
