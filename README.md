@@ -53,3 +53,7 @@
 - Conducting setting the targets and features clearly.
 - Then placed parameters accordingly.
 - Then did the train, and got the prediction
+
+2024/05/02
+- Created a new dataframe with the help of joblib to check manually entered values and predict whether the Loan is Approved or Not.
+- Continued testing with multiple data to check whether the version 2 model is better than version 1. And yes the version 2 model is much more better than the version 1 model.
