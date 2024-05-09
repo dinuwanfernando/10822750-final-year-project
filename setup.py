@@ -13,7 +13,7 @@ setup(
         'xgboost',
         'statsmodels',
         'prophet',
-        'matplotlib',
+        'matplotlib==3.4.3',
         'joblib'
         # Add any other dependencies here
     ],
