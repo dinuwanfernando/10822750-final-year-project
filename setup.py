@@ -11,9 +11,9 @@ setup(
         'pandas',
         'scikit-learn',
         'xgboost',
-        'statsmodels'
-        'prophet'
-        'matplotlib'
+        'statsmodels',
+        'prophet',
+        'matplotlib',
         'joblib'
         # Add any other dependencies here
     ],
