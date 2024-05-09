@@ -10,6 +10,11 @@ setup(
     install_requires=[
         'pandas',
         'scikit-learn',
+        'xgboost',
+        'statsmodels'
+        'prophet'
+        'matplotlib'
+        'joblib'
         # Add any other dependencies here
     ],
     entry_points={
