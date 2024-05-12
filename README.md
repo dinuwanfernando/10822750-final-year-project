@@ -1,4 +1,7 @@
 # 10822750-final-year-project
+
+Version 1
+
 2024/02/07
 - Started Coding on Git
 - Prepared the base of the project by importing the initial library and added the dataset
@@ -30,11 +33,13 @@
 - ISSUE with choosing the suitable parameter for hyperparameter was solved
 - Performed Randomized search for logistic regression, svc and random forest. And Random Forest is choses as it gives of the best acuracy of 80.66%
 
-- INTERIM REPORT -
+- INTERIM REPORT was submitted -
 
 2024/04/24
 - Encountered with a serious issue where the designed model heavily relied on the "Credit History" column  when predicting the output.
 - Also the used dataset and the predicted values were the opposite due to a fault in feature scaling and when dividing the features and targets.
+
+Version 2
 
 2024/04/26
 - Figured out a solution and started to reconfigure the model.
@@ -57,3 +62,7 @@
 2024/05/02
 - Created a new dataframe with the help of joblib to check manually entered values and predict whether the Loan is Approved or Not.
 - Continued testing with multiple data to check whether the version 2 model is better than version 1. And yes the version 2 model is much more better than the version 1 model.
+
+2024/05/09
+- Finally added a GUI so it is easy for the user. Now the model runs for one time and gives the user a GUI where he or she can inmput the required data and then when the desired button is pressed, a new interface is popped up with showing whether the Loan is Approved or Not along with the Credit Score.
+
